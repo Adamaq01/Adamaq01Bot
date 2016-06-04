@@ -1,0 +1,16 @@
+{
+  "name": "Adamaq01Bot",
+  "description": "Personal Discord Bot !",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
